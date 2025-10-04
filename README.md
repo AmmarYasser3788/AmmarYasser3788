@@ -1,6 +1,7 @@
 # Hi there 👋
 
-I’m using **Next.js**, **Flutter** and modern web technologies to build beautiful and fast apps.  
+I’m Ammar — a passionate software engineer  
+I build fast, beautiful and modern apps with **React**, **Next.js**, **Flutter** and **JavaScript**.
 
 ---
 
