@@ -19,12 +19,6 @@ I build fast, beautiful and modern apps with **React**, **Next.js**, **Flutter**
 
 ---
 
-### 🚀 I’m working on  
-- My [Portfolio Website](https://ammaryasserr.netlify.app/) built with Next.js  
-- Flutter mobile apps with Firebase  
-
----
-
 ### 📚 I’m learning  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
@@ -33,8 +27,11 @@ I build fast, beautiful and modern apps with **React**, **Next.js**, **Flutter**
 
 ---
 
-### 📝 I’m looking for help with  
-Integrating AI models into web & mobile apps.
+### 📝 I’m looking for help with
+- Integrating **AI/LLM features** into React, Next.js, and Flutter apps  
+- **Full-stack collabs**: Node/Express, MongoDB, Firebase, GraphQL  
+- **Real-time** apps (WebSockets) and **serverless** on Vercel/Firebase
+
 
 ---
 
