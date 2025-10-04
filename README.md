@@ -27,7 +27,9 @@ I build fast, beautiful and modern apps with **React**, **Next.js**, **Flutter**
 
 ### 📚 I’m learning  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer%20Motion-black?logo=framer&logoColor=blue)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
 ---
 
